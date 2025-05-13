@@ -1,5 +1,4 @@
-# Climatico
-# Climatico - Weather App
+#Climatico - Weather App
 
 Climatico is a simple web application that lets users check real-time weather information for any city in the world.
 
